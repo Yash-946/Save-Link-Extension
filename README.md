@@ -15,12 +15,12 @@
   <img src="photos/Screenshot 2024-02-28 145017.jpg"/>
 </p>
 
-## Step-4: Turn on the develop mode on top-left side of page
+## Step-4: Turn on the develop mode on top-right side of page
 <p align="center">
   <img src="photos/Screenshot 2024-02-28 145034.jpg"/>
 </p>
 
-## Step-5: Click on load unpacked on top-right side of same page
+## Step-5: Click on load unpacked on top-left side of same page
 <p align="center">
   <img src="photos/Screenshot 2024-02-28 145058.jpg"/>
 </p>
